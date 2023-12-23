@@ -18,9 +18,8 @@ public class OpenApiConfig {
 
 
         Info info = new Info()
-                .description("Spring Boot 3 + Open API 3")
-                .summary("Demo of Spring Boot 3 & Open API 3 Integration")
-                .title("Spring Boot 3 + Open API 3")
+                .description("Vehicles Api documentation")
+                .title("Vehicles Api")
                 .version("V1.0.0")
                 .license(new License().name("Apache 2.0").url("http://springdoc.org"));
 
